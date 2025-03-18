@@ -1,0 +1,12 @@
+names:
+- redness
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: redness-0ov9b
+  url: https://universe.roboflow.com/harsh-1qjyk/redness-0ov9b/dataset/1
+  version: 1
+  workspace: harsh-1qjyk
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Rosacea/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Rosacea/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Rosacea/valid/images

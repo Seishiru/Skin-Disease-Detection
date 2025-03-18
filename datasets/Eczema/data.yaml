@@ -1,0 +1,12 @@
+names:
+- Eczema
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: eczema-gw7re
+  url: https://universe.roboflow.com/neelesh-kumar-6ccll/eczema-gw7re/dataset/1
+  version: 1
+  workspace: neelesh-kumar-6ccll
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Eczema/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Eczema/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Eczema/valid/images

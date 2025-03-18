@@ -1,0 +1,12 @@
+names:
+- Melasma
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: detection-of-melasma-umnxr
+  url: https://universe.roboflow.com/samasharif/detection-of-melasma-umnxr/dataset/1
+  version: 1
+  workspace: samasharif
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Melasma/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Melasma/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Melasma/valid/images

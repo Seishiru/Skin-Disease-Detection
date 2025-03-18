@@ -1,0 +1,12 @@
+names:
+- Pimples
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: acnev2
+  url: https://universe.roboflow.com/wilson-knaz0/acnev2/dataset/2
+  version: 2
+  workspace: wilson-knaz0
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Acne/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Acne/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Acne/valid/images

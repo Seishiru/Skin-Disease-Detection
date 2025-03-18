@@ -1,0 +1,13 @@
+names:
+- monkeypox
+- others
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: monkeypox-detection-swqfp
+  url: https://universe.roboflow.com/lokesh-lipbu/monkeypox-detection-swqfp/dataset/1
+  version: 1
+  workspace: lokesh-lipbu
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Monkeypox/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Monkeypox/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Monkeypox/valid/images

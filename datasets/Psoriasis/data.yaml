@@ -1,0 +1,16 @@
+names:
+- Psoriasis Eritrodermica
+- Psoriasis Guttata
+- Psoriasis Inversa
+- Psoriasis Pustulosa
+- Psoriasis Vulgar
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: psoriasis-rtubr
+  url: https://universe.roboflow.com/tesis-nwvzf/psoriasis-rtubr/dataset/9
+  version: 9
+  workspace: tesis-nwvzf
+test: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Psoriasis/test/images
+train: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Psoriasis/train/images
+val: C:/Users/rapha/OneDrive/Desktop/CS 3201/Thesis/datasets/Psoriasis/valid/images
