@@ -5,7 +5,7 @@ model = YOLO("yolov8n.pt")  # Using YOLOv8 nano model for training
 
 # Train the model
 results = model.train(
-    data="datasets/Acne/data.yaml",  # Path to your dataset config
+    data="datasets/Eczema/data.yaml",  # Path to your dataset config
     epochs=50,  # Number of epochs
     batch=16,   # Batch size (adjust based on your GPU)
     imgsz=640,  # Image size for training
